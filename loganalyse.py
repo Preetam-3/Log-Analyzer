@@ -1,6 +1,5 @@
 import re
 from collections import Counter
-import pandas as p
 import datetime
 
 
